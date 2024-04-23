@@ -1,0 +1,5 @@
+Django==4.1
+Pillow==10.3.0
+reportlab==4.2.0
+weasyprint==61.2
+aspose-pdf==24.3.0
